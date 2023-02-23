@@ -1,0 +1,43 @@
+body {
+  background-color: #f9f295;
+  margin: 5% 20% 3% 20%;
+  font-family: papyrus, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 5px 5px 10px white;
+  font-size: 10vh;
+}
+
+h2 {
+  text-align: center;
+  font-size: 3vh;  
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+#info-title, #info-title2, #info-title3 {
+  font-size: 5vh;
+}
+
+p {
+  font-family: Arial, san-serif;
+  letter-spacing: .50px;
+  text-align: center;
+}
+
+#list {
+  font-weight: bold;
+}
+
+#anw {
+  font-family: "Courier New", sans-serif;
+  font-style: italic;
+}
